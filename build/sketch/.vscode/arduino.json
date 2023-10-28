@@ -1,0 +1,6 @@
+#line 1 "C:\\Users\\tonma\\mis_repositorios\\proyecto1\\.vscode\\arduino.json"
+{
+    "board": "arduino:avr:uno",
+    "sketch": "proyecto1.ino",
+    "output": "build"
+}

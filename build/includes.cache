@@ -2,15 +2,45 @@
   {
     "Sourcefile": null,
     "Include": "",
-    "Includepath": "C:\\Users\\Lenovo\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+    "Includepath": "C:\\Users\\tonma\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
   },
   {
     "Sourcefile": null,
     "Include": "",
-    "Includepath": "C:\\Users\\Lenovo\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+    "Includepath": "C:\\Users\\tonma\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
   },
   {
-    "Sourcefile": "C:\\Users\\Lenovo\\mis_repositorios\\project_arduino\\build\\sketch\\project_arduino.ino.cpp",
+    "Sourcefile": "C:\\Users\\tonma\\mis_repositorios\\proyecto1\\build\\sketch\\proyecto1.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\tonma\\mis_repositorios\\proyecto1\\build\\sketch\\Adafruit_Sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\tonma\\mis_repositorios\\proyecto1\\build\\sketch\\DHT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\tonma\\mis_repositorios\\proyecto1\\build\\sketch\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\tonma\\mis_repositorios\\proyecto1\\build\\sketch\\modulo-humedad.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\tonma\\mis_repositorios\\proyecto1\\build\\sketch\\modulo-lcd.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\tonma\\mis_repositorios\\proyecto1\\build\\sketch\\modulo-temperatura.cpp",
     "Include": "",
     "Includepath": null
   }
